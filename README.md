@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @warphunter, a gray-haired man with some fresh ideas ;)
 - 👀 I’m a command line guy, interested in creating faster, multithreaded tools for Unix and Linux (and occasionally Windows).
-- 🌱 Now I'm finalizing my big "pandemic project", where I wrote a multithreaded file search program in C (like find(1)) that currently compiles on AIX, Solaris, HP-UX, FreeBSD, OpenBSD, MacOS, Linux.  I have never touched a Windows compiler in my life, so I use Linux and MinGW to compile it for Windows 8)
+- 🌱 Now I'm finalizing my big "pandemic project", where I wrote a multithreaded file search program in C (like find(1)) that currently compiles on AIX, Solaris, HP-UX, FreeBSD, OpenBSD, MacOS, Linux.  I have never touched a Windows compiler in my life, so I use Linux and MinGW to compile it for Windows :)
 - 💞️ I’m happy to collaborate on improving and finding bugs in my tools :]
 - 📫 How to reach me ...
 
